@@ -57,13 +57,13 @@
 ### All Commands
 
 ```
-start - start the bot or get posts
-batch - create link for more than one posts
-genlink - create link for one post
+start - Start the Bot or get posts
+batch - Create link for more than one Posts
+genlink - Create link for one Post
 id - To check user id
-users - view bot statistics
-broadcast - broadcast any messages to bot users
-stats - checking your bot uptime
+users - View bot statistics
+broadcast - Broadcast any messages to Bot Users
+stats - Check your Bot uptime
 ```
 
 
