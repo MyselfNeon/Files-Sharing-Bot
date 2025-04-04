@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>🤖 My Name :</b> <a href='https://t.me/NeonFilesBot'><b>NeonFilesBot🌷</b></a> \n<b>📝 Language :</b> <a href='https://python.org'><b>Python 3</b></a> \n<b>📚 Library :</b> <a href='https://pyrogram.org'><b>Pyrogram</b> {__version__}</a> \n<b>🚀 Server :</b> <a href='https://heroku.com'><b>Heroku</b></a> \n<b>📢 Channel :</b> <a href='https://t.me/AnimeZerox'><b>AnimeZerox</b></a> \n<b>🧑‍💻 Developer :</b> <a href='tg://user?id={OWNER_ID}'><b>NeonAn❤️</b></a>",
+            text = f"<b>🤖 My Name :</b> <a href='https://t.me/NeonFilesBot'><b>NeonFilesBot</b></a> \n<b>📝 Language :</b> <a href='https://python.org'><b>Python 3</b></a> \n<b>📚 Library :</b> <a href='https://pyrogram.org'><b>Pyrogram {__version__}</b></a> \n<b>🚀 Server :</b> <a href='https://heroku.com'><b>Heroku</b></a> \n<b>📢 Channel :</b> <a href='https://t.me/NeonFiles'><b>NeonFiles</b></a> \n<b>🧑‍💻 Developer :</b> <a href='tg://user?id={OWNER_ID}'><b>NeonAnurag</b></a>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
