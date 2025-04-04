@@ -58,7 +58,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 USER_REPLY_TEXT = "<b>Please don't Send Me Messages Directly I am just File Sharing Bot 😄</b>"
 
-START_MSG = os.environ.get("START_MESSAGE", "<b>Hello {mention}\n\nI am Permanent File Store Bot.\nDeveloped by <a href='https://t.me/NeonAn23'>NeonAnurag</a>.\n\nGet Redirected from Correct Links to get the Files.</b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>Hello {mention}\n\nI am Permanent File Store Bot.\nDeveloped by <a href='https://t.me/NeonAn23'>NeonAnurag</a>.\n\nGet Redirected from Authorized Links to get the Files.</b>")
 
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "<b>Hello {mention}\n\nYou Need To Join In My Channel/Group To Use Me\n\n</b>")
 
