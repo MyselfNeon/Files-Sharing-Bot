@@ -1,4 +1,4 @@
-<img src="https://ibb.co/CKgWb1ff" alt="logo" target="/blank">
+<img src="https://envs.sh/cRA.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://t.me/NeonFilesBot" target="/blank"> NeonFilesBot </a></>
