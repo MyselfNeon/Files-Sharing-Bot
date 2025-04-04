@@ -68,11 +68,8 @@ stats - checking your bot uptime
 
 
 
-### ❤️ Respecting ❤️
-- [JishuDeveloper](https://github.com/JishuDeveloper)
+### ❤️ Developer ❤️
+### - [MyselfNeon](https://github.com/MyselfNeon)
 
-### 😍 Bots Channel 😍
-- [ NeonFiles🌷 ](https://t.me/neonfiles)
-
-### 💕 Contact Developer 💕
-- [ NeonAn ](https://t.me/Onionxbot)
+### 😍 Update Channel 😍
+### - [ NeonFiles🌷 ](https://t.me/neonfiles)
